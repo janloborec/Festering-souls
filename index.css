@@ -1,0 +1,41 @@
+#logo {
+  font-family: 'UnifrakturCook', cursive;
+  font-size: 50px;
+  margin-right: 70px;
+}
+
+.nav-item {
+  font-size: 25px;
+  margin-right: 25px;
+  font-weight: bolder;
+}
+
+a {
+  color: grey !important;
+}
+body {font-family: 'UnifrakturCook', cursive;
+
+}
+#slikca {
+  background-image: url('https://www.wweek.com/resizer/N2D7xYU_5KsiC2fxMBUhjL6STRc=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2018/06/26162730/music_UADA_4435.jpg');
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  background-size: cover;
+  font-size: 30px;
+  color: white !important;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 1) !important;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 1) !important;
+}
+
+#opis {
+  margin-top: 25%;
+  font-size: 50px;
+
+}
+
+#duša {
+
+}
