@@ -13,9 +13,14 @@
 a {
   color: white !important;
 }
-body {font-family: 'UnifrakturCook', cursive;
 
+body {
+  font-family: 'UnifrakturCook', cursive;
+  background-color:  #000000;
+
+  ;
 }
+
 #slikca {
   background-image: url('https://www.wweek.com/resizer/N2D7xYU_5KsiC2fxMBUhjL6STRc=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2018/06/26162730/music_UADA_4435.jpg');
   background-repeat: no-repeat;
@@ -33,9 +38,10 @@ body {font-family: 'UnifrakturCook', cursive;
 #opis {
   margin-top: 25%;
   font-size: 50px;
-
 }
 
-#duša {
+#duša {}
 
+#videovrstica {
+  padding-top: 120px;
 }
