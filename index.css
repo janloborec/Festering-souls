@@ -16,8 +16,7 @@ a {
 
 body {
   font-family: 'UnifrakturCook', cursive;
-  background-color:  #000000;
-
+  background-color: #000000;
   ;
 }
 
@@ -43,5 +42,55 @@ body {
 #duša {}
 
 #videovrstica {
-  padding-top: 120px;
+  padding-top: 130px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+#lepeslikce {
+  padding-top: 130px;
+  width: 99vw;
+  padding-left: 35px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: grey;
+  border-radius: 10px;
+}
+
+#ekipa {
+  width: 100vw;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 30px;
+}
+
+.card-title {
+  font-size: 40px;
+}
+
+#opisekipe {
+  padding-top: 130px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
 }
